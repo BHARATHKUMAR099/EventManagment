@@ -3,7 +3,7 @@ import { Link, useNavigate, useParams } from 'react-router-dom';
 import Navbar from '../../Nabvar';
 import axios from 'axios';
 import Popup from '../Popup';
-import "./eve3.css";
+import "./Eve3.css"
 import Payment from '../Payment';
 import * as d3 from "d3";
 
